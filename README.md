@@ -15,6 +15,14 @@ You can click the Preview link to take a look at your changes.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook & write poems
 
+## Tech Stack
+- 💻 Java | J2EE | Jakarta | C | C++
+- 🕸 HTML | CSS | JavaScript | BootStrap 
+- 🧠 DSA | MySql 
+- 🖥 Git | Terminal | Linux
+- 🎗 Spring | Hibernate | REST
+
+
 ### Connect with me:
 [<img align="left" alt="adnanghori" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="adnan_ghori_12 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
