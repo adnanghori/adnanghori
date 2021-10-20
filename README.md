@@ -1,6 +1,5 @@
 ### Hi there, I'm Adnan Ghori  👋
 
-[![facebook](https://img.shields.io/twitter/follow/adnan_ghori_12?color=1DA1F2&logo=facebook&style=for-the-badge)](https://www.facebook.com/adnanghorii12)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adnan_ghori_12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadnan_ghori_12&screen_name=adnan_ghori_12)
 
 <!---
