@@ -6,7 +6,7 @@
 adnanghori/adnanghori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## I'm An MCA Student At DAVV University
+## I'm An MCA Student At IPS 
 - 🙋🏻‍♂️ I'm a full stack developer
 - 🔭 I just created my first web application : [ProgrammersCorner][programmerscorner] !
 - 🌱 I’m currently learning everything 🤣
