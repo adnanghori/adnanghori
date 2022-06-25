@@ -7,19 +7,20 @@ adnanghori/adnanghori is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ## I'm An MCA Student At IPS 
-- 🙋🏻‍♂️ I'm a full stack developer
-- 🔭 I just created my first web application : [ProgrammersCorner][programmerscorner] !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🙋🏻‍♂️ I'm a back end developer
+- 🔭 I just created a fully functioned spring boot application {Angular} : [ContactManager][contactmanager] !
+- 🌱 I’m currently deep diving into spring boot to understand the underlying concept 📚
+- 👯 I’m looking to collaborate with front end developers
+- 🥅 2022 Goals: Exposure to Jenkins | Docker | Kubernetes | Spring Cloud
 - ⚡ Fun fact: I love to cook & write poems
 
 ## Tech Stack
 - 💻 Java | J2EE | Jakarta | C | C++
-- 🕸 HTML | CSS | JavaScript | BootStrap 
-- 🧠 DSA | MySql 
+- 🎗 Spring | Hibernate | REST | MicroServices | BOOT | Security
+- 🕸 HTML | CSS | JavaScript | BootStrap | Tailwind | Angular | React 
+- 🧠 DSA | MySql | PostgreSQL | MongoDB
 - 🖥 Git | Terminal | Linux
-- 🎗 Spring | Hibernate | REST | MicroServices
+
 
 
 ### Connect with me:
@@ -61,10 +62,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[programmerscorner]: https://github.com/adnanghori/codegeek/tree/master
+[contactmanager]: https://github.com/adnanghori/Angular-Spring-Email
 [website]:https://github.com/adnanghori
 [quora]:https://www.quora.com/Adnan-Ghori-5
 [twitter]: https://twitter.com/adnan_ghori_12
-[facebook]: https://facebook.com/adnanghorii12
 [linkedin]: https://linkedin.com/in/adnanghori12
 [skype]:https://www.skype.com/en/live:adnanghori2015
