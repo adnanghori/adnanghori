@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## I'm An MCA Student At IPS 
 - 🙋🏻‍♂️ I'm a back end developer
-- 🔭 I've just created a fully functioned spring boot application {Angular} : [ContactManager][contactmanager] !
+- 🔭 I've just created a fully functioned spring boot application {Angular} : [Mail API][maiapi] !
 - 🌱 I’m currently deep diving into spring boot to understand the underlying concept 📚
 - 👯 I’m looking to collaborate with front end developers
 - 🥅 2022 Goals: Exposure to Jenkins | Docker | Kubernetes | Spring Cloud
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[contactmanager]: https://github.com/adnanghori/Angular-Spring-Email
+[mailapi]: https://github.com/adnanghori/Angular-Spring-Email
 [website]:https://github.com/adnanghori
 [quora]:https://www.quora.com/Adnan-Ghori-5
 [twitter]: https://twitter.com/adnan_ghori_12
