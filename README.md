@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## I'm An MCA Student At IPS 
 - 🙋🏻‍♂️ I'm a back end developer
-- 🔭 I've just created a fully functioned spring boot application {Angular} : [Mail API][maiapi] !
+- 🔭 I've just created a fully functioned spring boot application {Angular} : [Mail API][mailapi] !
 - 🌱 I’m currently deep diving into spring boot to understand the underlying concept 📚
 - 👯 I’m looking to collaborate with front end developers
 - 🥅 2022 Goals: Exposure to Jenkins | Docker | Kubernetes | Spring Cloud
