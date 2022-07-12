@@ -16,10 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Tech Stack
 - 💻 Java | J2EE | Jakarta | C | C++
-- 🎗 Spring | Hibernate | REST | MicroServices | BOOT | Security
+- 🎗 Spring | Hibernate | REST | MicroServices | BOOT | Security 
 - 🕸 HTML | CSS | JavaScript | BootStrap | Tailwind | Angular | React 
 - 🧠 DSA | MySql | PostgreSQL | MongoDB
-- 🖥 Git | Terminal | Linux
+- 🖥 Git | Terminal | Linux | Eureka
+ 
 
 
 
