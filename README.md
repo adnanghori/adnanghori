@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 🎗 Spring | Hibernate | REST | MicroServices | BOOT | Security 
 - 🕸 HTML | CSS | JavaScript | BootStrap | Tailwind | Angular  
 - 🧠 DSA | MySQL | PostgreSQL | MongoDB
-- 🖥 Git | Terminal | Linux | Eureka | Tomcat | GlassFish | Postman | Swagger | ThunderClient
+- 🖥 Git | Terminal | Linux | Postman |
  
 
 
